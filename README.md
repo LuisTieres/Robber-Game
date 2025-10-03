@@ -18,7 +18,7 @@
 
 ## How to Play 🔧
 
-Clone this repository and run the game on your local machine using your favorite game engine, such as Unity or Godot.
+Clone this repository and run the game on your local machine using Unity.
 
 ## Installation 📦
 
