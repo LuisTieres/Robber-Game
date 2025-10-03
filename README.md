@@ -1,4 +1,5 @@
 # Robber-Game
+🚶‍♂️💨
 
 **The Robber** is an exciting and fast-paced game where you take on the role of a thief, trying to steal vegetables from a farmer's garden without getting caught. You have a limited time to steal all the veggies and advance to the next level. But beware—if the farmer catches you, it's game over!
 
