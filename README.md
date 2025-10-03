@@ -24,7 +24,7 @@ Clone this repository and run the game on your local machine using Unity.
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/the-robber.git
+    git clone https://github.com/yourusername/Robber-Game.git
     ```
 
 2. Navigate to the project folder:
