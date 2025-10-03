@@ -1,2 +1,37 @@
 # Robber-Game
-Play as a thief who must steal vegetables from a farmer’s garden. The catch? If the thief is caught, he dies. You have a limited time to steal all the vegetables and advance to the next level. Be quick, avoid being spotted, and complete the mission before time runs out!
+
+**The Robber** is an exciting and fast-paced game where you take on the role of a thief, trying to steal vegetables from a farmer's garden without getting caught. You have a limited time to steal all the veggies and advance to the next level. But beware—if the farmer catches you, it's game over!
+
+## How to Play 🎮
+
+1. **Steal Vegetables**: Navigate the thief and collect as many vegetables as you can from the garden.
+2. **Avoid the Farmer**: The farmer is watching! If he spots you, you lose!
+3. **Time Limit**: You have a set amount of time to steal all the veggies. Be quick!
+4. **Next Level**: Steal all vegetables to advance to the next stage. How far can you go?
+
+## Features 🌟
+
+- Fast-paced and thrilling gameplay
+- Increasing difficulty with each level
+- Fun and engaging mechanics
+- Simple controls, great for all ages!
+
+## How to Play 🔧
+
+Clone this repository and run the game on your local machine using your favorite game engine, such as Unity or Godot.
+
+## Installation 📦
+
+1. Clone the repository:
+    ```bash
+    git clone https://github.com/yourusername/the-robber.git
+    ```
+
+2. Navigate to the project folder:
+    ```bash
+    cd the-robber
+    ```
+
+3. Open the project in your preferred game engine.
+
+4. Play and enjoy!
