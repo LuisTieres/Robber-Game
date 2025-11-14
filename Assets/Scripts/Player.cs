@@ -51,10 +51,15 @@ public class Player : MonoBehaviour
 
         }
 
-        if (collision.gameObject.tag == "Fazendeiro" || collision.gameObject.tag == "Water")
+        if (collision.gameObject.tag == "Fazendeiro")
         {
             Time.timeScale = 1f;
             SceneManager.LoadScene(SceneManager.GetActiveScene().name);
+        }
+
+        if (collision.gameObject.tag == "exc")
+        {
+            SceneManager.LoadSceneAsync("Casa");
         }
     }
 

@@ -1,0 +1,12 @@
+# ninja log v5
+96	267	7848085700966165	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	71c2b62dc5eb614e
+269	488	7848085703361081	C:/Users/luistie/Robber-Game/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/4p51222w/obj/armeabi-v7a/libswappywrapper.so	fd483432fa40d4c1
+47	1001	7848085708488412	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	e79e4c9781a36833
+17	1007	7848085708532971	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	8de4916e46498acf
+10	1025	7848085708733860	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	fcb3a399f70777d1
+36	1068	7848085709183067	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	c564f37a05c3d07f
+58	1087	7848085709344505	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	4fddfc2bfc298a85
+84	1155	7848085710090096	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	9321d4c155b4fd36
+26	1211	7848085710646013	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	f10d5e63870fec39
+0	1283	7848085711374732	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	94a8609142fd564a
+1283	1357	7848085712156799	C:/Users/luistie/Robber-Game/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/4p51222w/obj/armeabi-v7a/libgame.so	fb9a7bca06226d1a

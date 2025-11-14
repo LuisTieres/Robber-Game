@@ -8,6 +8,7 @@ TagManager:
   - Fazendeiro
   - Water
   - Obstaculo
+  - exc
   layers:
   - Default
   - TransparentFX
