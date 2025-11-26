@@ -24,7 +24,7 @@ public class Timer : MonoBehaviour
         countdownText.text = currentTime.ToString("0");
         if (currentTime <= 0)
         {
-            currentTime = 0;
+            currentTime = startingTime;
             Time.timeScale = 0;
             timeover.SetActive(true);
 
@@ -33,9 +33,9 @@ public class Timer : MonoBehaviour
 
     public void restart()
     {
-
-        Time.timeScale = 1f;
+        timeover.SetActive(false);
         SceneManager.LoadScene(SceneManager.GetActiveScene().name);
         Time.timeScale = 1;
+
     }
 }

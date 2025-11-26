@@ -40,12 +40,11 @@ public class Player : MonoBehaviour
         {
             score ++;
 
-
-
             Destroy(collision.gameObject);
 
             if (score >= winSore)
             {
+                transform.Translate(0, 0, 0);
                 win.SetActive(true);
             }
 
