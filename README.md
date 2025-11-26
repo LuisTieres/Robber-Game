@@ -18,7 +18,7 @@
 
 ## How to Play 🔧
 
-Clone this repository and run the game on your local machine using Unity.
+Clone this repository and run the game on your local machine using Unity. Install app Robber2.apk
 
 ## Installation 📦
 
