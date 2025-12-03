@@ -1,0 +1,23 @@
+# ninja log v5
+3	976	7864591357424586	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	94a8609142fd564a
+58	148	7864591349233588	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	71c2b62dc5eb614e
+149	406	7864591351823085	C:/Users/luistie/Robber-Game/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/4p51222w/obj/armeabi-v7a/libswappywrapper.so	fd483432fa40d4c1
+14	705	7864591354740690	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	c564f37a05c3d07f
+25	689	7864591354604227	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	e79e4c9781a36833
+52	810	7864591355837994	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	9321d4c155b4fd36
+19	737	7864591355058523	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	8de4916e46498acf
+41	731	7864591355028467	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	4fddfc2bfc298a85
+9	794	7864591355665533	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	fcb3a399f70777d1
+33	879	7864591356519087	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	f10d5e63870fec39
+976	1064	7864591358391143	C:/Users/luistie/Robber-Game/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/4p51222w/obj/armeabi-v7a/libgame.so	fb9a7bca06226d1a
+53	144	7864600725592834	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	71c2b62dc5eb614e
+144	347	7864600727616508	C:/Users/luistie/Robber-Game/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/4p51222w/obj/armeabi-v7a/libswappywrapper.so	fd483432fa40d4c1
+40	636	7864600730497993	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	e79e4c9781a36833
+10	651	7864600730613999	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	c564f37a05c3d07f
+21	671	7864600730873572	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	8de4916e46498acf
+27	687	7864600730994447	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	4fddfc2bfc298a85
+16	729	7864600731455289	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	fcb3a399f70777d1
+45	791	7864600732069761	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	9321d4c155b4fd36
+32	822	7864600732373689	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	f10d5e63870fec39
+4	920	7864600733345379	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	94a8609142fd564a
+920	1002	7864600734190241	C:/Users/luistie/Robber-Game/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/4p51222w/obj/armeabi-v7a/libgame.so	fb9a7bca06226d1a
