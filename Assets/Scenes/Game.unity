@@ -2247,7 +2247,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   joystick: {fileID: 1228271592}
-  moveSpeed: 0.01
+  moveSpeed: 0.1
   win: {fileID: 447635783}
   lost: {fileID: 1825857734}
   winSore: 3
