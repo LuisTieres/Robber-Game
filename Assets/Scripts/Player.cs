@@ -1,6 +1,9 @@
 using UnityEngine;
+using UnityEngine.UI;
 using UnityEngine.InputSystem;
 using UnityEngine.SceneManagement;
+using UnityEngine.SocialPlatforms.Impl;
+using UnityEngine.UIElements;
 
 public class Player : MonoBehaviour
 {
@@ -46,6 +49,20 @@ public class Player : MonoBehaviour
             {
                 transform.Translate(0, 0, 0);
                 win.SetActive(true);
+
+
+                Scene currentScene = SceneManager.GetActiveScene();
+                if (currentScene.name == "Casa")
+                {
+                    int novo = StaticData.scorekeep + score;  
+
+                    if (!PlayerPrefs.HasKey("WinTime") || novo > PlayerPrefs.GetInt("WinTime"))
+                    {
+                        PlayerPrefs.SetInt("WinTime", novo);
+                        PlayerPrefs.Save();
+                        Debug.Log("Novo recorde salvo: " + novo);
+                    }
+                }
             }
 
         }
@@ -58,6 +75,8 @@ public class Player : MonoBehaviour
 
         if (collision.gameObject.tag == "exc")
         {
+            StaticData.scorekeep = score;
+
             SceneManager.LoadSceneAsync("Casa");
         }
     }
